@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href=''http://giaiphapthuonghieu.vn/daotaoseo-dao-tao-seo-website-thuc-hanh-du-an-seo-thuc-te.html?utm_source=google&utm_medium=Kh%C3%B4ng%20ph%E1%BA%A3i%20tr%E1%BA%A3%20ti%E1%BB%81n&utm_campaign=ads_trackling&utm_term=seo&utm_content=seo' target='_blank'><img src='https://4.bp.blogspot.com/-4lQDFQtwshM/VzAUvmGfpFI/AAAAAAAAAGU/B6gjngTBhTgqt5gHH4FG-nlVltEY9W_kQCLcB/s1600/Untitled.jpg' width='500px'/>Đào tạo lái xe ô tô cấp tốc tại các quận tphcm </a>. học lái xe ô tô tại các quận tphcm. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://1.bp.blogspot.com/-zpGtjHBvHgw/VzAXjrIAFxI/AAAAAAAAAGk/3ypHBw7jbnYv_U99hrM6oTIlGVBrGX1lwCLcB/s1600/TEST.jpg'  target='_blank'><img src='https://1.bp.blogspot.com/-zpGtjHBvHgw/VzAXjrIAFxI/AAAAAAAAAGk/3ypHBw7jbnYv_U99hrM6oTIlGVBrGX1lwCLcB/s1600/TEST.jpg' width='500px'/>Đào tạo seo chuyên sâu</a>. Học tại nhà Linh Nguyễn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
