@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://1.bp.blogspot.com/-zpGtjHBvHgw/VzAXjrIAFxI/AAAAAAAAAGk/3ypHBw7jbnYv_U99hrM6oTIlGVBrGX1lwCLcB/s1600/TEST.jpg'  target='_blank'><img src='https://1.bp.blogspot.com/-zpGtjHBvHgw/VzAXjrIAFxI/AAAAAAAAAGk/3ypHBw7jbnYv_U99hrM6oTIlGVBrGX1lwCLcB/s1600/TEST.jpg' width='500px'/>Đào tạo lái xe ôtô cấp tốc tại quận tphcm </a>. Học lái xe cấp tốc tại các quận tphcm . <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://3.bp.blogspot.com/-h_UueJ7FPhM/VzDDapqHryI/AAAAAAAAAHA/4brH0BLV__MQ_g55fLyp4pILTySOLAwhACLcB/s1600/baner-1.jpg'  target='_blank'><img src='https://3.bp.blogspot.com/-h_UueJ7FPhM/VzDDapqHryI/AAAAAAAAAHA/4brH0BLV__MQ_g55fLyp4pILTySOLAwhACLcB/s1600/baner-1.jpg' width='500px'/>Đào tạo seo chuyên sâu</a>. Học tại nhà Linh Nguyễn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
