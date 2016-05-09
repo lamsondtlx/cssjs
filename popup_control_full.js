@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://3.bp.blogspot.com/-h_UueJ7FPhM/VzDDapqHryI/AAAAAAAAAHA/4brH0BLV__MQ_g55fLyp4pILTySOLAwhACLcB/s1600/baner-1.jpg'  target='_blank'><img src='https://3.bp.blogspot.com/-h_UueJ7FPhM/VzDDapqHryI/AAAAAAAAAHA/4brH0BLV__MQ_g55fLyp4pILTySOLAwhACLcB/s1600/baner-1.jpg' width='500px'/>Đào tạo seo chuyên sâu</a>. Học tại nhà Linh Nguyễn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://3.bp.blogspot.com/-h_UueJ7FPhM/VzDDapqHryI/AAAAAAAAAHA/4brH0BLV__MQ_g55fLyp4pILTySOLAwhACLcB/s1600/baner-1.jpg'  target='_blank'><img src='https://3.bp.blogspot.com/-h_UueJ7FPhM/VzDDapqHryI/AAAAAAAAAHA/4brH0BLV__MQ_g55fLyp4pILTySOLAwhACLcB/s1600/baner-1.jpg' width='500px'/>Dạy lái xe ôtô cấp tốc tại tphcm </a>. Học lái xe cấp tốc. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
